@@ -25,3 +25,5 @@ SW	-> D2
 VCC	-> 5V
 
 GND	-> GND
+
+![Circuit Diagram](Tetris.jpg)
