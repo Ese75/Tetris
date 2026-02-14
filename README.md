@@ -14,3 +14,14 @@ CLK ->	D13
 
 CS ->	D10
 
+Joystick ->	Arduino
+
+VRx	-> A0
+
+VRy	-> A1
+
+SW	-> D2
+
+VCC	-> 5V
+
+GND	-> GND
