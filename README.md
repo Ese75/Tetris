@@ -1,5 +1,5 @@
 # Tetris
-Classic tetris-game with Arduino starter kit. Joystick, 8x8 LED-matrix 7219. 
+Classic tetris-game with Arduino starter kit. Joystick and 8x8 LED-matrix 7219. 
 
 In Arduino IDE software add libraries: (IDE → Tools → Manage Libraries→ add LedControl (Eberhard Fahle))
 
